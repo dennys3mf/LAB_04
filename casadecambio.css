@@ -1,0 +1,39 @@
+*{
+    background-color: aliceblue;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+    font-family: arial;
+}
+.formulario{
+    margin: auto;
+    color: darkolivegreen;
+    font-size: 22px;
+    font-family: Courier New;
+    text-align: center;
+}
+
+#uno{
+    width: 80px;
+    height: 15px;
+    border-radius: 50%;
+
+}
+#dos{
+    width: 80px;
+    height: 15px;
+    border-radius: 50%;
+
+}
+#valor{
+    font-size: 20px;
+    border-radius: 10%;
+    
+}
+#cotizador{
+    font-size: 20px;
+    border-radius: 12%;
+    background-color:blue;
+    color: aliceblue;
+}
